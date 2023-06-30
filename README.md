@@ -45,6 +45,7 @@ python image_analysis.py
 Enter the Image URL: http://example.com/image.jpg
 ```
 Either from the web or from the local directory
+
 3. The script will display the image and prompt you to enter a question.
 
 4. After entering the question, the script will perform visual question answering using the VILT model and display the answer.
