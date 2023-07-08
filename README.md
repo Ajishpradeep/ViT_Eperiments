@@ -32,13 +32,9 @@ pip install validators
 
 ## Usage
 
-1. Run the script:
+1. Run the collab notebook script cell by cell:
 
-```bash
-python image_analysis.py
-```
-
-2. Enter the image URL when prompted. It can be the URL of an image on the web or a local file path.
+2. After runnning seconf cell, enter the image URL when prompted. It can be the URL of an image on the web or a local file path.
 
 #### Example
 ```bash
